@@ -166,3 +166,5 @@ public static boolean isNotEmpty(String s) {
 #### 附录：参考文献
 
 1. 《阿里巴巴Java开发手册》. 著：阿里巴巴集团技术团队.
+
+<font color=Orange>说明：</font> 90%来自《阿里巴巴Java开发手册》
